@@ -2,7 +2,7 @@
 A simple CRUD application with VueJs using firebase as a database.
 
 ## Note
-Agregar archivo con nombre 'firebase' y en un archivo JS insertar tus credenciales de Firebase
+Add file named 'firebase' and in a JS file insert your Firebase credentials
 
 ## Project setup
 ```
