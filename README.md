@@ -1,4 +1,6 @@
-# crud-smoothies
+# Vue Firebase CRUD
+
+A simple CRUD application with VueJs using firebase as a database.
 
 ## Project setup
 ```
